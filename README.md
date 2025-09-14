@@ -1,5 +1,5 @@
 
-Cybersecurity  
+Cybersecurity Expert
 📍 Tehran  • 1998 • 📞 +989382997333 • ✉️ 0xyaser@gmail.com • 🌐 https://linkedin.com/in/yaseramiri 
 
 ---
