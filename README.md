@@ -44,7 +44,7 @@ Cybersecurity Specialist with 5+ years of experience securing enterprise systems
 
 ### **Security Specialist**  
 **PayamPardaz Co | Tehran**  
-*Jan 2022 – Oct 2024
+*Jan 2022 – Oct 2024*
 
 **SOC Tier 1 & Tier 2 Analyst / Support & Maintenance Member**
 
