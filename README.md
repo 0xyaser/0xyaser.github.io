@@ -1,5 +1,5 @@
 
-Cybersecurity Specialist  
+Cybersecurity  
 📍 Tehran  • 1998 • 📞 +989382997333 • ✉️ 0xyaser@gmail.com • 🌐 https://linkedin.com/in/yaseramiri 
 
 ---
@@ -12,7 +12,7 @@ Cybersecurity Specialist with 5+ years of experience securing enterprise systems
 
 ## 💼 Professional Experience
 
-### **Cybersecurity Analyst**  
+### **Cybersecurity TeamLead**  
 **Graph inc. | Tehran**
 *Oct 2024 – Present*
 
@@ -42,7 +42,7 @@ Cybersecurity Specialist with 5+ years of experience securing enterprise systems
 - Balanced business requirements with technical constraints, ensuring that product iterations consistently addressed both user pain points and security effectiveness.
 
 
-### **Security Specialist**  
+### **CyberSecurity Analyst**  
 **PayamPardaz Co | Tehran**  
 *Jan 2022 – Oct 2024*
 
@@ -56,7 +56,7 @@ Cybersecurity Specialist with 5+ years of experience securing enterprise systems
 
 ### **Security Researcher**
 **Freelance | Tehran**  
-*Apr 2020 – Jan 20022*
+*Apr 2020 – Jan 2022*
 - OWASP TOP 10
 - Web Pentesting
 - Programming
